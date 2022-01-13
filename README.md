@@ -1,10 +1,13 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoTavaresNeto&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoTavaresNeto&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### Olá! 👋 🇧🇷  
+---  
+  Meu nome é Francisco Tavares da Cunha Guimarães Neto, sou programador e graduando em Análise e Desenvolvimento de Sistemas
+### Hi there! 👋 🇺🇸   
+---
+### ⭐ GitHub Stats
+---    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoTavaresNeto&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoTavaresNeto&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**FranciscoTavaresNeto/FranciscoTavaresNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
