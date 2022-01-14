@@ -1,6 +1,6 @@
 ### Olá! 👋 🇧🇷  
 ---  
-  Meu nome é Francisco Tavares da Cunha Guimarães Neto, sou programador e graduando em Análise e Desenvolvimento de Sistemas
+  Meu nome é Francisco Tavares da Cunha Guimarães Neto, sou programador e graduando em Análise e Desenvolvimento de Sistemas no IFRS da cidade de Rio Grande, estado do Rio Grande do Sul
 ### Hi there! 👋 🇺🇸   
 ---
 ### ⭐ GitHub Stats
