@@ -29,5 +29,5 @@
 ### 📈 Activity Graph
 ---  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoTavaresNeto" />
-<img src="https://activity-graph.herokuapp.com/graph?username=FranciscoTavaresNeto&theme=minimal" />
+
 
