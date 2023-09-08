@@ -1,10 +1,10 @@
 ### 👋 🇧🇷 Olá!   
 ---  
-  Meu nome é Francisco Tavares da Cunha Guimarães Neto, graduando em Análise e Desenvolvimento de Sistemas no IFRS Campus Rio Grande, sou apaixonado por aprender novas tecnologias e esse é o meu repositório de projetos e experimentos, minhas tecnologias favoritas são: Angular, React, Node, Laravel, PostgreSQL e MySQL.
+  Meu nome é Francisco Tavares da Cunha Guimarães Neto, graduando em Análise e Desenvolvimento de Sistemas no IFRS Campus Rio Grande, sou apaixonado por aprender novas tecnologias e esse é o meu repositório de projetos e experimentos.
   
 ### 👋 🇺🇸 Hi there!   
 ---
-  My name is Francisco Tavares da Cunha Guimarães Neto, IT student at Brazil, city of Rio Grande, Rio Grande do Sul state, passionate about learning new technologies and that's my personal archive of projects and experiments, my favorite technologies are: Angular, React, Node, Laravel, PostgreSQL e MySQL.
+  My name is Francisco Tavares da Cunha Guimarães Neto, IT student at Brazil, city of Rio Grande, Rio Grande do Sul state, passionate about learning new technologies and that's my personal archive of projects and experiments.
 
 
 ### 💬 Contato/Contact
