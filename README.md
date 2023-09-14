@@ -20,7 +20,7 @@
 
 ### ⭐ GitHub Stats
 ---    
-<img src="https://github-readme-stats.vercel.app/api?username=FranciscoTavaresNeto" />
+<img src="https://github-readme-stats.vercel.app/api?username=FranciscoTavaresNeto&show_icons=true&bg_color=00000000" />
 
 ### 💥 Top Languages
 ---
