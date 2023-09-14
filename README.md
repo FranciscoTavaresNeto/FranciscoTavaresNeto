@@ -24,10 +24,10 @@
 
 ### 💥 Top Languages
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoTavaresNeto" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoTavaresNeto&show_icons=true&bg_color=00000000" />
 
 ### 📈 Activity Graph
 ---  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoTavaresNeto" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoTavaresNeto&show_icons=true&bg_color=00000000" />
 
 
