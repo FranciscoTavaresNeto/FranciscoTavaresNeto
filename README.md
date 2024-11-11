@@ -16,7 +16,3 @@
   - franciscotcgn@gmail.com
 
 <a href="https://www.linkedin.com/in/francisco-tavares-422a33204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-### 💥 Top Languages
----
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoTavaresNeto&show_icons=true" />
